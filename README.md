@@ -1,12 +1,12 @@
 # storyplanter
-The Git Repository contains the complete Story Planter Python project. It includes the main code file (story_planter.py) and a short README with instructions.
+The Git Repository contains the complete Story Planter Python project. It includes the main code file (Story Planter A2 Lilliana Favaloro.py).
 
 To Run the Program:
 Download or clone the repository.
 Open the file in PyCharm
 
 Run the file using:
-python story_planter.py
+python Story Planter A2 Lilliana Favaloro.py
 
 
 Follow the on-screen prompts to generate writing ideas and timed sprints.
